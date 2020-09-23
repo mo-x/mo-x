@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ####  tools
 
-![](https://img.shields.io/badge/os-linux%7Cmacos-orange)![](https://img.shields.io/badge/editor-IntelliJ%20IDEA-blue)
+![](https://img.shields.io/badge/os-linux%7Cmacos-orange)![](https://img.shields.io/badge/editor-IntelliJ%20IDEA-blue)![](https://img.shields.io/badge/programing%20language-Java%7CPython-orange)
 
