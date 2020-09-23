@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- →社畜一枚
 <!--
 **mo-x/mo-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-####  tools
+####  技术栈
 
 ![](https://img.shields.io/badge/os-linux%7Cmacos-orange)![](https://img.shields.io/badge/editor-IntelliJ%20IDEA-blue)![](https://img.shields.io/badge/programing%20language-Java%7CPython-orange)
 
